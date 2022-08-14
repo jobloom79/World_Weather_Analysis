@@ -9,8 +9,8 @@
 #### Deliverable 3 Create a Travel Itinerary Map
 ---This proved to be the most challenging due to having to use several python mathmatical functions like 'to_numpy' to convert dataframe columns to arrays and listing those arrays in a way to get retrieve specific latitude and longitude and then concating the spliced info into one new dataframe. Once this was successfuly done being able to see the specific data mapped and an itenary created and shown in the figure below was rewarding
 
-![WeatherPy_travel_map](https://github.com/jobloom79/PyBer_Analysis/blob/main/analysis/Ride_Share_Summary.PNG)
-
+![WeatherPy_travel_map](https://github.com/jobloom79/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 ### Summary: 
 ---This didn't require specific analysis to review, but understanding and learning about extracting data via API calls and being able to manupulate filtered data to customize a search proved to be valuable
+
