@@ -12,5 +12,5 @@
 ![WeatherPy_travel_map](https://github.com/jobloom79/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 ### Summary: 
----This didn't require specific analysis to review, but understanding and learning about extracting data via API calls and being able to manupulate filtered data to customize a search proved to be valuable
+---This didn't require specific analysis to review, but understanding and learning about extracting data via API calls and being able to manupulate filtered data to customize a search proved to be valuable.
 
